@@ -1,4 +1,3 @@
-# 110exercise
-Test directory for 110 GitHub exercise
+# IGME-110 GitHub Practice
 
-Add some content. 
+This is a repository that I created in class to practice with Git and GitHub. 
